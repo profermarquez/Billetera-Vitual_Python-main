@@ -1,5 +1,6 @@
 # requisitos 
 Crear entorno virtual
+
 pip install requests
 
 # Ejecución
